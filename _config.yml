@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuki Yoshida / Personal Page"
+title                    : "Yuki Yoshida"
 title_separator          : "-"
 name                     : &name "Yuki Yoshida"
 description              : &description "Postdoc @ Univ Tokyo & JSPS fellow"
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
