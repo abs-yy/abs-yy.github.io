@@ -1,0 +1,10 @@
+---
+title: "生命情報科学若手の会 第11回年会"
+collection: talks
+type: "Oral (Japan)"
+permalink: /talks/2019-japoral17
+date: 2019
+location: "Japan"
+---
+
+吉田祐貴, 堀川大樹, 冨田勝, 荒川和晴. 短波長紫外線に曝露したヨコヅナクマムシのトランスクリプトーム解析

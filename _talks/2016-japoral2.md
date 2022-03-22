@@ -1,0 +1,10 @@
+---
+title: "第1回クマムシ学研究会2016"
+collection: talks
+type: "Oral (Japan)"
+permalink: /talks/2016-japoral2
+date: 2016
+location: "Japan"
+---
+
+吉田祐貴, 堀川大樹, 坂下哲哉, 國枝武和, 桑原宏和, 豊田敦, 片山俊明, 小林泰彦, 冨田勝, 荒川和晴. ヨコヅナクマムシの乾眠関連遺伝子の網羅的同定へむけて
