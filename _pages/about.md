@@ -10,25 +10,22 @@ redirect_from:
 
 Hi! I'm Yuki Yoshida, a postdoc at The University of Tokyo, Japan. My research interests focus on how a genome produces phenotypes, with particular emphasis on Metazoans. I've studied mostly genomics and transcriptomics in anhydrobiotic tardigrades and midges, but more recently I've started doing *E. coli* genetics and single cell microscopy. 
 
-My background and history
-======
-
-Current and past research topics
-======
+## My background and history
 
 
-Anhydrobiosis -- a latent state of life --
-------
+## Current and past research topics
 
 
-Evolutionary genomics in chironomids
-------
+### Anhydrobiosis -- a latent state of life --
 
 
-Linking genotype and phenotype through microscopy
-------
+### Evolutionary genomics in chironomids
 
 
-Contact
-======
+
+### Linking genotype and phenotype through microscopy
+
+
+
+## Contact
 
