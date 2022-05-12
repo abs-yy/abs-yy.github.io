@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuki Yoshida"
   avatar           : "profile.png"
-  bio              : "I am a JSPS PD fellow at The University of Tokyo. My interests include evolutionary genomics in metazoa and synthetic genomics in bacteria. <br> <br><a href="https://www.jsps.go.jp/english/e-pd/index.html">JSPS PD Fellow</a> at <a href="http://webpark1706.sakura.ne.jp/en/"> Wakamoto lab</a>, The University of Tokyo, JAPAN."
+  bio              : "I am a JSPS PD fellow at The University of Tokyo. My interests include evolutionary genomics in metazoa and synthetic genomics in bacteria. <br> <br><a href='https://www.jsps.go.jp/english/e-pd/index.html'>JSPS PD Fellow</a> at <a href='http://webpark1706.sakura.ne.jp/en/'> Wakamoto lab</a>, The University of Tokyo, JAPAN."
   location         : "Japan"
   employer         : "JSPS"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1tsK5oFBRuQkC/bibliography/public/"
