@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Environment and Information Studies, Keio University, 03.2015
-* M.S. in Systems Biology, Keio University, 03.2018
 * Ph.D in Media and Governance, Keio University, 03.2021
+* M.S. in Systems Biology, Keio University, 03.2018
+* B.S. in Environment and Information Studies, Keio University, 03.2015
 
 Work experience
 ======
@@ -33,9 +33,13 @@ Skills
   * Transcriptome and Metabolome analysis
 * Genetics <i>using E. coli</i>
   * Molecular cloning
-  * Microscopy 
+  * Library construction
+* Microscopy
+  * Lithography for microfluidics 
+  * Time lapse microscopy using microfluidics
 * Computational analysis
   * Fluent in Perl and R
+  * Use HPC and cluster servers
 
 Publications
 ======
